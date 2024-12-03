@@ -1,0 +1,112 @@
+<header class="bg-blue-800">
+    <nav
+            class="mx-auto flex max-w-7xl items-center justify-between p-10 lg:px-8"
+            aria-label="Global"
+    >
+        <a href="/" class="-m-1.5 p-1.5">
+      <span class="text-gray-100 text-3xl font-bold"
+      >Kaihkashan Nakhuda Portfolio</span
+      >
+        </a>
+        <div class="flex lg:hidden">
+            <button
+                    type="button"
+                    id="menu-button"
+                    class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-gray-700"
+            >
+                <span class="sr-only">Open main menu</span>
+                <svg
+                        class="h-6 w-6"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke-width="1.5"
+                        stroke="currentColor"
+                        aria-hidden="true"
+                >
+                    <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+                </svg>
+            </button>
+        </div>
+        <div class="hidden lg:flex lg:gap-x-12">
+            <a
+                    href="/contact"
+                    class="font-semibold leading-6 text-gray-100 hover:underline">Contact</a
+            >
+            <a
+                    href="https://www.linkedin.com/in/kaihkashan/"
+                    class="font-semibold leading-6 text-gray-100 hover:underline"
+            >LinkedIn</a
+            >
+        </div>
+    </nav>
+    <!-- Mobile menu, show/hide based on menu open state. -->
+    <div id="mobile-menu" class="hidden" role="dialog" aria-modal="true">
+        <!-- Background backdrop, show/hide based on slide-over state. -->
+        <div class="fixed inset-0 z-10"></div>
+        <div
+                class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 bg-teal-700"
+        >
+            <div class="flex items-center justify-between">
+                <a href="/" class="-m-1.5 p-1.5 font-bold text-3xl text-white">
+                    <span>Kaihkashan Nakhuda Portfolio</span>
+                </a>
+                <button
+                        id="close-button"
+                        type="button"
+                        class="-m-2.5 rounded-md p-2.5 text-gray-700"
+                >
+                    <span class="sr-only">Close menu</span>
+                    <svg
+                            class="h-6 w-6"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            stroke-width="1.5"
+                            stroke="currentColor"
+                            aria-hidden="true"
+                    >
+                        <path
+                                stroke-linecap="round"
+                                stroke-linejoin="round"
+                                d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="mt-6 flow-root">
+                <div class="-my-6 divide-y divide-gray-500/10">
+                    <div class="space-y-2 py-6">
+                        <a
+                                href="/contact"
+                                class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-100 hover:bg-teal-900"
+                        >Contact</a
+                        >
+                        <a
+                                href="https://www.linkedin.com/in/kaihkashan/"
+                                class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-100 hover:bg-teal-900"
+                        >LinkedIn</a
+                        >
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<script>
+    const toggleButton = document.getElementById(
+        "menu-button",
+    ) as HTMLButtonElement;
+    const closeButton = document.getElementById(
+        "close-button",
+    ) as HTMLButtonElement;
+    const mobileMenu = document.getElementById("mobile-menu");
+
+    const toggleMenu = () => {
+        mobileMenu?.classList.toggle("hidden");
+    };
+
+    toggleButton!.addEventListener("click", toggleMenu);
+    closeButton!.addEventListener("click", toggleMenu);
+</script>
