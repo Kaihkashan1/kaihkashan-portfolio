@@ -1,107 +1,50 @@
-<header class="bg-blue-800">
-    <nav
-            class="mx-auto flex max-w-7xl items-center justify-between p-10 lg:px-8"
-            aria-label="Global"
-    >
-        <a href="/" class="-m-1.5 p-1.5">
-      <span class="text-gray-100 text-3xl font-bold"
-      >Kaihkashan Nakhuda's Portfolio</span
-      >
-        </a>
-        <div class="flex lg:hidden">
-            <button
-                    type="button"
-                    id="menu-button"
-                    class="-m-2.5 inline-flex items-center justify-center rounded-md p-2.5 text-white"
-            >
-                <span class="sr-only">Open main menu</span>
-                <svg
-                        class="h-6 w-6"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke-width="1.5"
-                        stroke="currentColor"
-                        aria-hidden="true"
-                >
-                    <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
-                </svg>
-            </button>
-        </div>
-        <div class="hidden lg:flex lg:gap-x-12">
-            <a
-                    href="/contact"
-                    class="font-semibold leading-6 text-gray-100 hover:underline">Contact</a
-            >
-            <a
-                    href="https://www.linkedin.com/in/kaihkashan/"
-                    target="_blank"
-                    class="font-semibold leading-6 text-gray-100 hover:underline"
-            >LinkedIn</a
-            >
-        </div>
-    </nav>
-    <!-- Mobile menu, show/hide based on menu open state. -->
-    <div id="mobile-menu" class="hidden" role="dialog" aria-modal="true">
-        <!-- Background backdrop, show/hide based on slide-over state. -->
-        <div class="fixed inset-0 z-10"></div>
-        <div
-                class="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10 bg-blue-800"
-        >
-            <div class="flex items-center justify-between">
-                <a href="/" class="-m-1.5 p-1.5 font-bold text-3xl text-white">
-                    <span>Kaihkashan Nakhuda Portfolio</span>
-                </a>
-                <button
-                        id="close-button"
-                        type="button"
-                        class="-m-2.5 rounded-md p-2.5 text-white"
-                >
-                    <span class="sr-only">Close menu</span>
-                    <svg
-                            class="h-6 w-6"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke-width="1.5"
-                            stroke="currentColor"
-                            aria-hidden="true"
-                    >
-                        <path
-                                stroke-linecap="round"
-                                stroke-linejoin="round"
-                                d="M6 18L18 6M6 6l12 12"></path>
+<nav class="bg-gray-800">
+    <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+        <div class="relative flex h-16 items-center justify-between">
+            <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+                <!-- Mobile menu button-->
+                <button id="menu-button" type="button" class="relative inline-flex items-center justify-end rounded-md p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-controls="mobile-menu" aria-expanded="false">
+                    <span class="absolute -inset-0.5"></span>
+                    <span class="sr-only">Open main menu</span>
+                    <svg class="block size-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+                    </svg>
+                    <svg class="hidden size-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12" />
                     </svg>
                 </button>
             </div>
-            <div class="mt-6 flow-root">
-                <div class="-my-6 divide-y divide-gray-500/10">
-                    <div class="space-y-2 py-6">
-                        <a
-                                href="/contact"
-                                class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-100 hover:bg-teal-900"
-                        >Contact</a
-                        >
-                        <a
-                                href="https://www.linkedin.com/in/kaihkashan/"
-                                target="_blank"
-                                class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-100 hover:bg-teal-900"
-                        >LinkedIn</a
-                        >
+            <div class="flex flex-1 items-center justify-end ml-[44px] sm:ml-0 sm:justify-start">
+                <a href="/" class="flex shrink-0 items-center text-white">
+                    <svg class="h-8 w-auto" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" width="32px" height="32px" fill="currentColor">
+                        <path d="M 12 2.0996094 L 1 12 L 4 12 L 4 21 L 11 21 L 11 15 L 13 15 L 13 21 L 20 21 L 20 12 L 23 12 L 12 2.0996094 z M 12 4.7910156 L 18 10.191406 L 18 11 L 18 19 L 15 19 L 15 13 L 9 13 L 9 19 L 6 19 L 6 10.191406 L 12 4.7910156 z"/>
+                    </svg>
+                </a>
+            </div>
+            <div class="flex flex-1 items-center sm:items-stretch justify-end">
+                <div class="hidden sm:ml-6 sm:block">
+                    <div class="flex space-x-4">
+                        <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
+                        <a href="https://linkedin.com/in/kaihkashan" target="_blank" class="rounded-md text-gray-300 hover:bg-gray-700 px-3 py-2 text-sm font-medium hover:text-white" aria-current="page">Connect with me</a>
+                        <a href="/CV.pdf" target="_blank" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Download my CV</a>
+                        <a href="mailto:kaihkashan.n@gmail.com" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Email me</a>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="hidden" id="mobile-menu">
+            <div class="space-y-1 px-2 pb-3 pt-2">
+                <a href="https://linkedin.com/in/kaihkashan" target="_blank" class="block rounded-md text-gray-300 hover:bg-gray-700 px-3 py-2 text-base font-medium hover:text-white" aria-current="page">Connect with me</a>
+                <a href="/CV.pdf" target="_blank" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Download my CV</a>
+                <a href="mailto:kaihkashan.n@gmail.com" class="block rounded-md px-3 py-2 text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Email me</a>
+            </div>
+        </div>
     </div>
-</header>
+</nav>
 
 <script>
     const toggleButton = document.getElementById(
         "menu-button",
-    ) as HTMLButtonElement;
-    const closeButton = document.getElementById(
-        "close-button",
     ) as HTMLButtonElement;
     const mobileMenu = document.getElementById("mobile-menu");
 
@@ -110,5 +53,4 @@
     };
 
     toggleButton!.addEventListener("click", toggleMenu);
-    closeButton!.addEventListener("click", toggleMenu);
 </script>
