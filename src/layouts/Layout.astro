@@ -1,7 +1,6 @@
 ---
 import "../styles/global.css";
 import HeadSEO from "../components/HeadSEO.astro";
-import Navbar from "../components/Navbar.astro";
 
 interface Props {
 	title: string,
@@ -14,7 +13,6 @@ const { title } = Astro.props as Props;
 <html lang="en" style="scroll-behavior: smooth">
 	<HeadSEO title={title} slug={Astro.url.pathname} />
 	<body>
-		<Navbar />
 		<slot />
 	</body>
 </html>

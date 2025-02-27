@@ -1,5 +1,5 @@
 ---
-title: Sample 2
+title: Information architecture
 description: This is a better sample
 date: 2025-02-26
 ---

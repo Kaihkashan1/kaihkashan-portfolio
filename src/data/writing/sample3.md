@@ -1,5 +1,5 @@
 ---
-title: Documentation frameworks
+title: Content strategy
 description: Lorem ipsum odor amet, consectetuer adipiscing elit. Mi cubilia accumsan sociosqu luctus habitasse. Sem dolor euismod maximus metus fusce eleifend cubilia. Ac posuere hendrerit nulla lorem nibh in tempus. Venenatis luctus nam imperdiet consectetur tellus risus justo conubia volutpat. Gravida nec mus nec tellus sapien imperdiet lacinia nec. Habitasse non morbi semper blandit penatibus ac maecenas.
 featuredImage: "./headshot.jpeg"
 date: 2025-02-26
