@@ -13,5 +13,6 @@ export default defineConfig({
   },
   markdown: {
     remarkPlugins: [remarkDirective, remarkCallout]
-  }
+  },
+  site: "https://kaihkashan.com"
 });
