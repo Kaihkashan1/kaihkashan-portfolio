@@ -11,4 +11,14 @@ const writing = defineCollection({
     })
 })
 
-export const collections = { writing };
+const certificates = defineCollection({
+    loader: glob({ pattern: "**/*.md", base: "./src/data/certificates"}),
+    schema: ({image}) => z.object({
+        title: z.string(),
+        description: z.string(),
+        featuredImage: image().optional(),
+        date: z.date(),
+    })
+})
+
+export const collections = { writing, certificates };
