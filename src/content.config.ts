@@ -8,6 +8,7 @@ const writing = defineCollection({
         description: z.string(),
         featuredImage: image().optional(),
         date: z.date(),
+        position: z.number(),
     })
 })
 

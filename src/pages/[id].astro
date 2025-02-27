@@ -16,7 +16,7 @@ const { Content } = await render(post);
 
 <Layout title={post.data.title}>
     <div class="flex justify-center py-16 px-4 bg-gray-100 min-h-screen">
-        <article class="prose md:prose-lg lg:prose-xl bg-white shadow-lg rounded-lg p-8 max-w-3xl w-full">
+        <article class="prose text-lg font-medium text-gray-500 sm:text-xl/8 bg-white shadow-lg rounded-lg p-8 max-w-3xl w-full">
             <h1>{post.data.title}</h1>
             {post.data.featuredImage &&
                 <Image src={post.data.featuredImage} alt="" class="mt-2 mx-auto aspect-[6/5] w-full max-w-lg rounded-2xl object-cover sm:mt-16 lg:mt-0 lg:max-w-none xl:row-span-2 xl:row-end-2 xl:mt-16" width={post.data.featuredImage.width} height={post.data.featuredImage.height} />
