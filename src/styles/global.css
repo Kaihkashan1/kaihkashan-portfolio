@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+table {
+    @apply min-w-full border-collapse border border-gray-300 overflow-hidden rounded-lg shadow-md;
+}
+
+thead th {
+    @apply bg-gray-100 font-semibold text-gray-700 px-4 py-2 border-b border-gray-300;
+}
+
+tbody tr:nth-child(even) {
+    @apply bg-gray-50;
+}
+
+tbody tr {
+    @apply hover:bg-gray-100 transition-colors;
+}
+
+td {
+    @apply text-gray-700 px-4 py-2 border-b border-gray-300;
+}

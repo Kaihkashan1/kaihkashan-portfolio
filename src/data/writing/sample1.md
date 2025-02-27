@@ -1,19 +1,28 @@
 ---
 title: Sample 1
-description: This is a sample
-featuredImage: images/headshot.jpeg
+description: Lorem ipsum odor amet, consectetuer adipiscing elit. Mi cubilia accumsan sociosqu luctus habitasse. Sem dolor euismod maximus metus fusce eleifend cubilia. Ac posuere hendrerit nulla lorem nibh in tempus. Venenatis luctus nam imperdiet consectetur tellus risus justo conubia volutpat. Gravida nec mus nec tellus sapien imperdiet lacinia nec. Habitasse non morbi semper blandit penatibus ac maecenas.
+featuredImage: "./headshot.jpeg"
+date: 2025-02-26
 ---
 
-This is sample 1!
+I'm writing a sample post about something, I guess. This is pretty rad. Could be radder, though.
 
-- This
-- is
-- a
-- list
+| This | Is | A | Table |
+| --- | --- | --- | --- |
+| It's | Pretty | Frickin' | Cool |
 
-1. This
-2. is
-3. a
-4. list
+:::callout[info]
+This is a cool thing about another cool thing.
+:::
 
-[This is a link](https://google.com)
+:::callout[warning]
+This is less cool. uh oh
+:::
+
+:::callout[error]
+VERY NOT COOL
+:::
+
+:::callout[success]
+this is chill
+:::
