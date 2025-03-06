@@ -1,4 +1,4 @@
-I am a Senior Technical Writer with extensive experience in documenting various flagship enterprise software products for large MNCs, such as Adjust GmbH, PTC Inc., and Persistent Systems Limited. As of today, I have more than 12 years of technical writing experience. Over the course of my career, I have worked on writing for completely new products, building the information architecture, designing content strategy and flow, as well as maintaining and updating existing documentation.
+I am a Senior Technical Writer with extensive experience in documenting various flagship enterprise software products for large MNCs, such as Adjust GmbH, PTC Inc., and Persistent Systems Limited. As of today (March 2025), I have more than 12 years of technical writing experience. Over the course of my career, I have worked on writing for completely new products, building the information architecture, designing content strategy and flow, as well as maintaining and updating existing documentation.
 
 My primary purpose towards creating good content is hoping to provide help to customers when they need it the most.
 

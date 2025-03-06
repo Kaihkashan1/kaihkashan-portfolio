@@ -22,3 +22,27 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+
+
+# Formatting
+
+| This | Is | A | Table |
+| --- | --- | --- | --- |
+| It's | Pretty | Frickin' | Cool |
+
+:::callout[info]
+This is a cool thing about another cool thing.
+:::
+
+:::callout[warning]
+This is less cool. uh oh
+:::
+
+:::callout[error]
+VERY NOT COOL
+:::
+
+:::callout[success]
+this is chill
+:::
