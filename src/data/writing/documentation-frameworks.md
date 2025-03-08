@@ -1,29 +1,42 @@
 ---
 title: Documentation frameworks
-description: Lorem ipsum odor amet, consectetuer adipiscing elit. Mi cubilia accumsan sociosqu luctus habitasse. Sem dolor euismod maximus metus fusce eleifend cubilia. Ac posuere hendrerit nulla lorem nibh in tempus. Venenatis luctus nam imperdiet consectetur tellus risus justo conubia volutpat. Gravida nec mus nec tellus sapien imperdiet lacinia nec. Habitasse non morbi semper blandit penatibus ac maecenas.
-featuredImage: "./headshot.jpeg"
-date: 2025-02-26
+description:  Over the course of my career, I've used Diátaxis, DITA, and Docs as Code to structure and write documentation.
+date: 2025-03-09
 position: 1
 ---
 
-I'm writing a sample post about something, I guess. This is pretty rad. Could be radder, though.
+Over the course of my career, I've had to work on documenting new products from scratch as well as making updates to existing documentation. While doing this, I've adopted the following documentation frameworks:
+- Diátaxis
+- DITA
+- Docs as Code
 
-| This | Is | A | Table |
-| --- | --- | --- | --- |
-| It's | Pretty | Frickin' | Cool |
+## Diátaxis 
 
-:::callout[info]
-This is a cool thing about another cool thing.
-:::
 
-:::callout[warning]
-This is less cool. uh oh
-:::
 
-:::callout[error]
-VERY NOT COOL
-:::
+#### My work at Adjust
 
-:::callout[success]
-this is chill
-:::
+References - [Developer Hub](https://dev.adjust.com/en) | [GitHub commits](https://github.com/adjust/dev-docs/commits?author=KaihkashanAdjust)
+
+## DITA
+
+
+#### My work at PTC
+
+References - [Developer Hub](https://dev.adjust.com/en) | [GitHub commits](https://github.com/adjust/dev-docs/commits?author=KaihkashanAdjust)
+
+## Docs as Code
+
+Docs as Code is a framework where documentation is treated like code. Writers typically use the same tools and processes that developers use for writing code. This approach involves creating documentation in text files in the Markdown format, and storing them in source code repositories such as Git. It promotes collaboration among developers, writers, and other stakeholders, ensuring that documentation is updated and accurate.
+
+Docs as Code supports version control, automated testing, and continuous integration, ensuring that documentation remains synchronized with code updates and always stays up-to-date. With this approach, you can block merging of new features if they don’t include documentation, which encourages developers to treat docunentation as a part of the product.
+
+The Docs as Code framework is used for Developer documentation, which usually includes SDK and API documentation.
+ 
+#### My work at Adjust
+
+I collaborated closely with my team to move the Developer content in the Help Center to its own separate Developer Hub. We brainstormed and finalized the design and structure of the new Developer Hub.
+
+![From Developer content in the Help Center to Developer Hub](./docs-as-code.jpeg)
+
+References - [Developer Hub](https://dev.adjust.com/en) | [GitHub commits](https://github.com/adjust/dev-docs/commits?author=KaihkashanAdjust)

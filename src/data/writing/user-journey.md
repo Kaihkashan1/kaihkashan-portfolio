@@ -1,7 +1,7 @@
 ---
 title: User journeys
 description: Documenting a user journey involves mapping the steps that a user needs to take when interacting with a product, from the initial touchpoint to the desired goal.
-date: 2025-02-26
+date: 2025-03-09
 position: 3
 ---
 
@@ -13,7 +13,7 @@ Creating user journeys is a great way for multiple stakeholders to collaborate a
 
 ### My work at Adjust 
 
-I worked with cross-functional teams to outline the following for an Education app, LearnDroid:
+I worked with cross-functional teams to outline the user journey for an Education app, LearnDroid:
 1. The steps that a user would follow to subscribe to the app.
 2. The steps that a Marketing Manager needs to take to analyze how successful their campaigns are in driving users to the app.
 
