@@ -12,11 +12,17 @@ Over the course of my career, I've had to work on documenting new products from 
 
 ## Diátaxis 
 
+Diátaxis presents  a way of segregating documentation into four different types - tutorials, how-to guides, technical references, and explanation. The framework helps decide what to write, how to write, and how to organize documentation.
 
+Adhering to the Diátaxis framweork strictly is not required - you can make changes as per the needs of the product. Sometimes, writing a tutorial is not possible, so just skip it! Or, if a reference isn't required, you don't have to write one.
 
 #### My work at Adjust
 
-References - [Developer Hub](https://dev.adjust.com/en) | [GitHub commits](https://github.com/adjust/dev-docs/commits?author=KaihkashanAdjust)
+I worked with my colleague to rewrite articles in the Developer Hub using the Diátaxis framework. We were able to structure the information in a way that worked well for our clients. We received good feedback from the Support and Implementations teams. 
+
+![From old content layout to layout using the Diátaxis framework](./diataxis.jpeg)
+
+References - From [Old content layout](https://dev.adjust.com/en/sdk/android/features/events) | [Archived link](https://archive.ph/hLb28) to [New content layout](https://dev.adjust.com/en/sdk/adobe-extension/android/events) | [Archived link](https://archive.ph/9Kou2)
 
 ## DITA
 
@@ -26,7 +32,7 @@ DITA maps and topics are XML files, where images, videos, or any other files are
 #### My work at PTC
 
 During my time at PTC, I've used DITA extensively to document multiple flagship products, such as ThingWorx Flow, ThingWorx Analytics Manager, and
-ThingWorx Utilities. I had an opportunity to design the information architecture of ThingWorx Flow and ThingWorx Analytics Manager from scratch, as these were completely new products that were being developed. 
+ThingWorx Utilities. I've had the opportunity to design the information architecture of ThingWorx Flow and ThingWorx Analytics Manager from scratch.
 
 Concept topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_analytics_8/index.html#page/analytics/AnalysisServices_FlexibleScaling.html) | [Archived link](http://archive.today/OcWnW)
 
