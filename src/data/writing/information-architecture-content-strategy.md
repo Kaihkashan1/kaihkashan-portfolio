@@ -1,11 +1,11 @@
 ---
 title: Information architecture & Content flow
-description: Information architecture and content flow is the discipline of structuring and organizing content in a way that makes the information easy to find, understand, and navigate.
+description: Information architecture and content flow involves structuring and organizing content in a way that makes the information easy to find, understand, and navigate.
 date: 2025-03-09
 position: 3
 ---
 
-Information architecture and content flow is the discipline of structuring and organizing content in a way that makes the information easy to find, understand, and navigate.
+Information architecture and content flow involves structuring and organizing content in a way that makes the information easy to find, understand, and navigate.
 
 ### Information architecture: My work at Adjust
 

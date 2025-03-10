@@ -8,4 +8,4 @@ My primary purpose towards creating good content is hoping to provide help to cu
 - I quickly adapt to new tools, processes, and environments. 
 - I am not afraid of taking up any challenges at work and enjoy them as it motivates me to work harder and become better at my job.
 - I thrive under tight deadlines, and never fail to deliver on time with the highest quality. 
-- With my uncanny ability to build a good professional rapport with my colleagues, I am able to share and receive information with team members and other stakeholders. 
+- I am able to build a good professional rapport with my colleagues, which enables me to effectively share and receive information with team members and stakeholders. 
