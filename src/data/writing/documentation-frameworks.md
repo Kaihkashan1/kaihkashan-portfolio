@@ -1,11 +1,11 @@
 ---
 title: Documentation frameworks
-description:  Over the course of my career, I've used Diátaxis, DITA, and Docs as Code to structure and write documentation.
+description:  While documenting new products or updating existing ones, I've used Diátaxis, DITA, and Docs as Code to structure and write documentation.
 date: 2025-03-09
 position: 1
 ---
 
-Over the course of my career, I've had to work on documenting new products from scratch as well as making updates to existing documentation. While doing this, I've adopted the following documentation frameworks:
+While documenting new products or updating existing ones, I've adopted the following documentation frameworks:
 - Diátaxis
 - Docs as Code
 - DITA
