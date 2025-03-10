@@ -22,4 +22,14 @@ const certificates = defineCollection({
     })
 })
 
-export const collections = { writing, certificates };
+const testimonials = defineCollection({
+    loader: glob({ pattern: "**/*.md", base: "./src/data/testimonials"}),
+    schema: ({image}) => z.object({
+        title: z.string(),
+        description: z.string(),
+        featuredImage: image().optional(),
+        date: z.date(),
+    })
+})
+
+export const collections = { writing, certificates, testimonials };
