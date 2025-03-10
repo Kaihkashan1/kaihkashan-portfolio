@@ -5,17 +5,17 @@ date: 2025-03-09
 position: 2
 ---
 
-User journey documentation involves mapping the steps that a user needs to take when interacting with a product, from the initial touchpoint to the desired goal. It needs to be an integral part of the documentation strategy irrespective of whether a user needs to only run through a specific feature of the product or access multiple features of a product to accomplish their goal. It aligns perfectly with "tutorials" in the Diátaxis approach to documentation. 
+User journey documentation involves mapping the steps that a user needs to take when interacting with a product, from the initial touchpoint to the desired goal. It should be an integral part of the documentation strategy, whether a user interacts with a single feature or multiple features to achieve their goal. This approach aligns well with the 'tutorials' category in the Diátaxis framework."
 
-How we document a user journey depends on the audience that we're writing for. We have to know the assumptions we can make and what we can’t. 
+The way we document a user journey depends on the target audience. It's essential to understand which assumptions we can and cannot make. 
 
-Creating user journeys is a great way for multiple stakeholders to collaborate and identify pain points and optimize the flow to make the user experience as seamless as possible. Documenting user journeys well can improve product adoption and onboarding, and reduce and reduce the burden on support teams.
+Creating user journeys is a great way for multiple stakeholders to collaborate and identify pain points and optimize the flow to make the user experience as seamless as possible. Well-documented user journeys improve product adoption, streamline onboarding, and reduce the burden on support teams.
 
 ### My work at Adjust
 
-I worked with cross-functional teams to outline the user journey for an Education app, LearnDroid:
-1. The steps that a user would follow to subscribe to the app.
-2. The steps that a Marketing Manager needs to take to analyze how successful their campaigns are in driving users to the app.
+I collaborated with cross-functional teams to define the user journey for an education app, LearnDroid.
+1. The steps a user follows to subscribe to the app.
+2. The steps a Marketing Manager needs to take to analyze how successful their campaigns are in driving users to the app.
 
 ![User journey article screenshot](./user-journey.jpeg)
 

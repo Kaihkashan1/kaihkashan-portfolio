@@ -12,9 +12,9 @@ While documenting new products or updating existing ones, I've adopted the follo
 
 ## Diátaxis 
 
-Diátaxis presents  a way of segregating documentation into four different types - tutorials, how-to guides, technical references, and explanation. The framework helps decide what to write, how to write, and how to organize documentation.
+Diátaxis organizes documentation into four categories: tutorials, how-to guides, technical references, and explanations. The framework helps decide what to write, how to write, and how to organize documentation.
 
-Adhering to the Diátaxis framework strictly is not required - you can make changes as per the needs of the product. Sometimes, writing a tutorial is not possible, so just skip it! Or, if a reference isn't required, you don't have to write one.
+Adhering to the Diátaxis framework strictly is not required - you can adapt it based on the product's needs. Sometimes, writing a tutorial is not possible, so just skip it! Or, if a reference isn't required, you don't have to write one.
 
 #### My work at Adjust
 
@@ -26,9 +26,9 @@ References: From <a href="https://dev.adjust.com/en/sdk/android/features/events"
 
 ## Docs as Code
 
-Docs as Code is a framework where documentation is treated like code. Writers typically use the same tools and processes that developers use for writing code. This approach involves creating documentation in text files in the Markdown format, and storing them in source code repositories such as Git. It promotes collaboration among developers, writers, and other stakeholders, ensuring that documentation is updated and accurate.
+Docs as Code is a framework that treats documentation like code. Writers typically use the same tools and processes that developers use for writing code. This approach involves creating documentation in Markdown text files and storing them in source code repositories such as Git. It promotes collaboration among developers, writers, and other stakeholders, ensuring that documentation is updated and accurate.
 
-Docs as Code supports version control, automated testing, and continuous integration, ensuring that documentation remains synchronized with code updates and always stays up-to-date. With this approach, product managers or writers can block merging of new features if they don’t include documentation, which encourages developers to treat documentation as a part of the product.
+Docs as Code supports version control, automated testing, and continuous integration, ensuring that documentation remains synchronized with code updates and always stays up-to-date. This approach allows product managers or writers to block new feature merges if they don't include documentation, encouraging developers to integrate documentation as part of the product.
 
 The Docs as Code framework is used for Developer documentation, which usually includes SDK and API documentation.
  
@@ -43,7 +43,7 @@ References: <a href="https://dev.adjust.com/en" target="_blank">Developer Hub</a
 ## DITA
 
 Technical writers use DITA (Darwin Information Typing Architecture), an XML-based architecture to create and manage topic-oriented content. 
-DITA maps and topics are XML files, where images, videos, or any other files are inserted as references. DITA is widely adopted in technical documentation for its ability to create reusable content. This ensures consistency, reduces duplicate work, and makes documentation more maintainable.
+DITA maps and topics are XML files, where images, videos, or any other files are inserted as references. DITA is widely used in technical documentation due to its ability to create reusable content. This ensures consistency, minimizes duplication, and improves maintainability.
 
 #### My work at PTC
 
