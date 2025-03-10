@@ -7,8 +7,8 @@ position: 1
 
 Over the course of my career, I've had to work on documenting new products from scratch as well as making updates to existing documentation. While doing this, I've adopted the following documentation frameworks:
 - Diátaxis
-- DITA
 - Docs as Code
+- DITA
 
 ## Diátaxis 
 
@@ -22,23 +22,7 @@ I worked with my colleague to rewrite articles in the Developer Hub using the Di
 
 ![From old content layout to layout using the Diátaxis framework](./diataxis.jpeg)
 
-References - From [Old content layout](https://dev.adjust.com/en/sdk/android/features/events) | [Archived link](https://archive.ph/hLb28) to [New content layout](https://dev.adjust.com/en/sdk/adobe-extension/android/events) | [Archived link](https://archive.ph/9Kou2)
-
-## DITA
-
-Technical writers use DITA (Darwin Information Typing Architecture), an XML-based architecture to create and manage topic-oriented content. 
-DITA maps and topics are XML files, where images, videos, or any other files are inserted as references. DITA is widely adopted in technical documentation for its ability to create reusable content. This ensures consistency, reduces duplicate work, and makes documentation more maintainable.
-
-#### My work at PTC
-
-During my time at PTC, I've used DITA extensively to document multiple flagship products, such as ThingWorx Flow, ThingWorx Analytics Manager, and
-ThingWorx Utilities. I've had the opportunity to design the information architecture of ThingWorx Flow and ThingWorx Analytics Manager from scratch.
-
-Concept topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_analytics_8/index.html#page/analytics/AnalysisServices_FlexibleScaling.html) | [Archived link](https://archive.today/OcWnW)
-
-Task topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/Integration_Orchestration/CustomAction85.html) | [Archived link](https://archive.today/mCLKP)
-
-Reference topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/Integration_Orchestration/InstallingTwxFlowPrerequisitesMSSQL.html) | [Archived link](https://archive.today/wrVI3)
+References: From <a href="https://dev.adjust.com/en/sdk/android/features/events" target="_blank">old content layout</a> | <a href="https://archive.ph/hLb28" target="_blank">Archived link</a> to <a href="https://dev.adjust.com/en/sdk/adobe-extension/android/events" target="_blank">new content layout</a> | <a href="https://archive.ph/9Kou2" target="_blank">Archived link</a>
 
 ## Docs as Code
 
@@ -54,4 +38,20 @@ I collaborated closely with my team to move the Developer content in the Help Ce
 
 ![From Developer content in the Help Center to Developer Hub](./docs-as-code.jpeg)
 
-References - [Developer Hub](https://dev.adjust.com/en) | [My GitHub commits](https://github.com/adjust/dev-docs/commits?author=KaihkashanAdjust)
+References: <a href="https://dev.adjust.com/en" target="_blank">Developer Hub</a> | <a href="https://github.com/adjust/dev-docs/commits?author=KaihkashanAdjust" target="_blank">My GitHub commits</a>
+
+## DITA
+
+Technical writers use DITA (Darwin Information Typing Architecture), an XML-based architecture to create and manage topic-oriented content. 
+DITA maps and topics are XML files, where images, videos, or any other files are inserted as references. DITA is widely adopted in technical documentation for its ability to create reusable content. This ensures consistency, reduces duplicate work, and makes documentation more maintainable.
+
+#### My work at PTC
+
+During my time at PTC, I've used DITA extensively to document multiple flagship products, such as ThingWorx Flow, ThingWorx Analytics Manager, and
+ThingWorx Utilities. I've had the opportunity to design the information architecture of ThingWorx Flow and ThingWorx Analytics Manager from scratch.
+
+References:
+
+- <a href="https://support.ptc.com/help/thingworx_hc/thingworx_analytics_8/index.html#page/analytics/AnalysisServices_FlexibleScaling.html" target="_blank">Concept topic</a> | <a href="https://archive.today/OcWnW" target="_blank">Archived link</a>
+- <a href="https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/Integration_Orchestration/CustomAction85.html" target="_blank">Task topic</a> | <a href="https://archive.today/mCLKP" target="_blank">Archived link</a>
+- <a href="https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/Integration_Orchestration/InstallingTwxFlowPrerequisitesMSSQL.html" target="_blank">Reference topic</a> | <a href="https://archive.today/wrVI3" target="_blank">Archived link</a>

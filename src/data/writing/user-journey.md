@@ -2,7 +2,7 @@
 title: User journeys
 description: Documenting a user journey involves mapping the steps that a user needs to take when interacting with a product, from the initial touchpoint to the desired goal.
 date: 2025-03-09
-position: 3
+position: 2
 ---
 
 User journey documentation involves mapping the steps that a user needs to take when interacting with a product, from the initial touchpoint to the desired goal. It needs to be an integral part of the documentation strategy irrespective of whether a user needs to only run through a specific feature of the product or access multiple features of a product to accomplish their goal. It aligns perfectly with "tutorials" in the Diátaxis approach to documentation. 
@@ -19,4 +19,4 @@ I worked with cross-functional teams to outline the user journey for an Educatio
 
 ![User journey article screenshot](./user-journey.jpeg)
 
-References - [Help Center link](https://help.adjust.com/en/article/user-journey-education-vertical) | [Archived link](https://archive.ph/sWruf)
+References: <a href="https://help.adjust.com/en/article/user-journey-education-vertical" target="_blank">User journey - Education vertical</a> | <a href="https://archive.ph/sWruf" target="_blank">Archived link</a>
