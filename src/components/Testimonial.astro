@@ -1,0 +1,19 @@
+---
+interface Props {
+    post: any;
+}
+
+const {post} = Astro.props as Props;
+---
+
+<article class="flex max-w-xl flex-col items-start justify-between">
+    <a href={`/${post.id}`}>
+        <div class="group relative">
+            <h3 class={`relative mt-3 text-xl font-semibold text-gray-900 group-hover:text-gray-600 ${post.data.title.length > 30 ? 'line-clamp-2' : ''}`}>
+                <span class="absolute inset-0"></span>
+                {post.data.title}
+            </h3>
+            <p class="mt-5 line-clamp-3 text-sm/6 text-gray-600">{post.data.description}</p>
+        </div>
+    </a>
+</article>
