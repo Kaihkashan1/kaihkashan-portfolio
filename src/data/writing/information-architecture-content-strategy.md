@@ -34,7 +34,7 @@ References:
 
 __SDK integration guides__
 
-I worked on creating a template for getting started with and setting up the Adjust SDK with a client's app. Content in this single article has links to everything that a deveoper would need to get set up. 
+I worked on creating a template for getting started with and setting up the Adjust SDK with a client's app. Content in this single article has links to everything that a developer would need to get set up. 
 
 ![Content flow SDK integration guides](./content-flow-sdk-integration.jpeg)
 
