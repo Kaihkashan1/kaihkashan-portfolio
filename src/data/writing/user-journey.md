@@ -11,7 +11,7 @@ How we document a user journey depends on the audience that we're writing for. W
 
 Creating user journeys is a great way for multiple stakeholders to collaborate and identify pain points and optimize the flow to make the user experience as seamless as possible. Documenting user journeys well can improve product adoption and onboarding, and reduce and reduce the burden on support teams.
 
-### My work at Adjust 
+### My work at Adjust
 
 I worked with cross-functional teams to outline the user journey for an Education app, LearnDroid:
 1. The steps that a user would follow to subscribe to the app.
@@ -19,4 +19,4 @@ I worked with cross-functional teams to outline the user journey for an Educatio
 
 ![User journey article screenshot](./user-journey.jpeg)
 
-References - [Help Center link](https://help.adjust.com/en/article/user-journey-education-vertical) | [Archived link](http://archive.today/sWruf)
+References - [Help Center link](https://help.adjust.com/en/article/user-journey-education-vertical) | [Archived link](https://archive.ph/sWruf)

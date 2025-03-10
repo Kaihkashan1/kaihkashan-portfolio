@@ -34,11 +34,11 @@ DITA maps and topics are XML files, where images, videos, or any other files are
 During my time at PTC, I've used DITA extensively to document multiple flagship products, such as ThingWorx Flow, ThingWorx Analytics Manager, and
 ThingWorx Utilities. I've had the opportunity to design the information architecture of ThingWorx Flow and ThingWorx Analytics Manager from scratch.
 
-Concept topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_analytics_8/index.html#page/analytics/AnalysisServices_FlexibleScaling.html) | [Archived link](http://archive.today/OcWnW)
+Concept topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_analytics_8/index.html#page/analytics/AnalysisServices_FlexibleScaling.html) | [Archived link](https://archive.today/OcWnW)
 
-Task topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/Integration_Orchestration/CustomAction85.html) | [Archived link](http://archive.today/mCLKP)
+Task topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/Integration_Orchestration/CustomAction85.html) | [Archived link](https://archive.today/mCLKP)
 
-Reference topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/Integration_Orchestration/InstallingTwxFlowPrerequisitesMSSQL.html) | [Archived link](http://archive.today/wrVI3)
+Reference topic - [Help Center link](https://support.ptc.com/help/thingworx_hc/thingworx_8_hc/en/index.html#page/ThingWorx/Help/Integration_Orchestration/InstallingTwxFlowPrerequisitesMSSQL.html) | [Archived link](https://archive.today/wrVI3)
 
 ## Docs as Code
 
