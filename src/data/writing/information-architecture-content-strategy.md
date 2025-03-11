@@ -11,6 +11,12 @@ Information architecture and content flow involves structuring and organizing co
 
 I worked extensively on setting up the information architecture of the Adjust Help Center independently, when we moved from the legacy product to the new Adjust product. In addition, I revamped the information architecture of multiple sections within the Adjust Help Center.
 
+For example: I worked on revamping the Meta section, based on bounce off rates from Google Analytics, heatmaps from Hotjar, and feedback from 
+
+:::callout[success]
+I revamped the Meta section based on bounce rates from Google Analytics, heatmaps from Hotjar, and feedback from the Implementations team, who worked directly with clients to set up Meta for Adjust. As a result, the percentage of support tickets related to Meta, which previously made up a large portion of total support tickets, decreased by about 60% within the first quarter after publishing this section.
+:::
+
 ![Information architecture Adjust Help Center](./information-architecture.jpeg)
 
 References: <a href="https://help.adjust.com/en/marketer" target="_blank">Adjust Help Center</a> | <a href="https://archive.ph/Hf4oG" target="_blank">Archived link</a>
@@ -22,6 +28,10 @@ It is also important to pay attention to how information flows within individual
 __Subscriptions__
 
 I worked on creating a new section for Adjust's Subscriptions solution. This section was highly appreciated by the Product Manager and Sales teams. Clients were able to independently set up the feature without requiring any assistance from Adjust Technical Account Managers. 
+
+:::callout[success]
+Clients appreciated this entire section, and were able to independently set up the feature without requiring any assistance from Adjust Technical Account Managers. This eliminated the need for assistance, freeing up about 80% of the Technical Account Managers' time to focus on other tasks.
+:::
 
 ![Content flow Subscriptions](./content-flow-subscriptions.jpeg)
 
@@ -35,6 +45,10 @@ References:
 __SDK integration guides__
 
 I worked on creating a template for getting started with and setting up the Adjust SDK with a client's app. Content in this single article has links to everything that a developer would need to get set up. 
+
+:::callout[success]
+I received great feedback on this from my stakeholders. Clients were able to onboard quickly and were able to connect the Adjust SDK to their app. This reduced the number of calls for the Implementations team by about 80%. 
+:::
 
 ![Content flow SDK integration guides](./content-flow-sdk-integration.jpeg)
 

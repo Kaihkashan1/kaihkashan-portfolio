@@ -17,6 +17,10 @@ I collaborated with cross-functional teams to define the user journey for an edu
 1. The steps a user follows to subscribe to the app.
 2. The steps a Marketing Manager needs to take to analyze how successful their campaigns are in driving users to the app.
 
+:::callout[success]
+My work on this article played a key role in helping the Sales team effectively pitch Datascape to our clients, which had a direct impact in driving the company's revenue.
+:::
+
 ![User journey article screenshot](./user-journey.jpeg)
 
 References: <a href="https://help.adjust.com/en/article/user-journey-education-vertical" target="_blank">User journey - Education vertical</a> | <a href="https://archive.ph/sWruf" target="_blank">Archived link</a>

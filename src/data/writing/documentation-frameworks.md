@@ -18,7 +18,14 @@ Adhering to the Diátaxis framework strictly is not required - you can adapt it 
 
 #### My work at Adjust
 
-I worked with my colleague to rewrite articles in the Developer Hub using the Diátaxis framework. We were able to structure the information in a way that worked well for our clients. We received good feedback from the Support and Implementations teams. 
+I worked with my colleague to rewrite articles in the Developer Hub using the Diátaxis framework. We were able to structure the information in a way that worked well for our clients.  
+
+:::callout[success]
+Clients mentioned that they were able to get set up quickly because the tutorial provided a complete example, rather than multiple examples within the same article. 
+<br/>
+
+The Support and Implementation teams analyzed queries that came in for these topics, and came to a conclusion that support queries went down by 50% for articles that had this new format. 
+:::
 
 ![From old content layout to layout using the Diátaxis framework](./diataxis.jpeg)
 
@@ -35,6 +42,13 @@ The Docs as Code framework is used for Developer documentation, which usually in
 #### My work at Adjust
 
 I collaborated closely with my team to move the Developer content in the Help Center to its own separate Developer Hub. We brainstormed and finalized the design and structure of the new Developer Hub.
+
+:::callout[success]
+Transitioning to the Developer Hub marked a significant change in how we approached developer documentation. This shift not only streamlined processes for the SDK teams but also improved their experience by allowing them to remain within GitHub, which they found highly beneficial. 
+<br/>
+
+Additionally, other teams were able to open pull requests to propose changes, which accelerated the process of updating content.
+:::
 
 ![From Developer content in the Help Center to Developer Hub](./docs-as-code.jpeg)
 
