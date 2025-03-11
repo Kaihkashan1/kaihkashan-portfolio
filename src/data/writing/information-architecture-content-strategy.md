@@ -42,6 +42,18 @@ References:
 - <a href="https://help.adjust.com/en/article/subscription-setup-for-android-apps" target="_blank">Subscription setup for Android apps</a> | <a href="https://archive.ph/5P2HD" target="_blank">Archived link</a>
 - <a href="https://help.adjust.com/en/article/manage-subscription-data" target="_blank">Manage subscription data</a> | <a href="https://archive.ph/PAFow" target="_blank">Archived link</a>
 
+__Partner setup__
+
+Previously, we did not have any dedicated documentation for the Partner audience. I worked on created a completely new set of docs for our 1500+ Technology Partners. 
+
+:::callout[success]
+With specific documentation tailored to their use case, over 1500 partners were easily able to set up callbacks to receive data to their servers. This reduced the burden on the Partnerships team. A quarter-over-quarter analysis revealed an 80% decrease in support tickets related to this issue from partners.
+:::
+
+![Content flow Partners](./content-flow-partners.jpeg)
+
+References: <a href="https://help.adjust.com/en/article/callbacks-partner" target="_blank">Callbacks for partners</a> | <a href="https://archive.ph/CkhIV" target="_blank">Archived link</a>
+
 __SDK integration guides__
 
 I worked on creating a template for getting started with and setting up the Adjust SDK with a client's app. Content in this single article has links to everything that a developer would need to get set up. 
