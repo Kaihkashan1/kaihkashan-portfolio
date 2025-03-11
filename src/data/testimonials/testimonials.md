@@ -1,5 +1,5 @@
 ---
-title: Endorsements
+title: Professional accolades 
 description: Recognition from stakeholders highlighting how my work has contributed positively to the business.
 date: 2025-03-11
 ---
