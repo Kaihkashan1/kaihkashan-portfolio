@@ -2,7 +2,7 @@ I have extensive experience in documenting various flagship enterprise software 
 
 My primary purpose towards creating good content is hoping to provide help to customers when they need it the most. I truly believe that providing and receiving constructive feedback is key to making our content better for customers.
 
-#### My strengths
+As a Senior Technical Writer, I possess the following strengths:
 
 - I have an eye for detail and perfect any task that I take up with complete dedication.
 - I quickly adapt to new tools, processes, and environments. 
