@@ -64,6 +64,10 @@ DITA maps and topics are XML files, where images, videos, or any other files are
 During my time at PTC, I've used DITA extensively to document multiple flagship products, such as ThingWorx Flow, ThingWorx Analytics Manager, and
 ThingWorx Utilities. I've had the opportunity to design the information architecture of ThingWorx Flow and ThingWorx Analytics Manager from scratch.
 
+:::callout[success]
+I worked on over 500 topics independently, including concepts, tasks, and references, for ThingWorx Flow, all of which were included in a single market release. My efforts were widely recognized and appreciated by stakeholders. As a result, clients were able to set up and use this complex product independently, without needing to contact support.
+:::
+
 References:
 
 - <a href="https://support.ptc.com/help/thingworx_hc/thingworx_analytics_8/index.html#page/analytics/AnalysisServices_FlexibleScaling.html" target="_blank">Concept topic</a> | <a href="https://archive.today/OcWnW" target="_blank">Archived link</a>
