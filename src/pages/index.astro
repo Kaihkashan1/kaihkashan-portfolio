@@ -49,11 +49,11 @@ certs.sort((a, b) => {return b.data.date - a.data.date})
     <div class="bg-white py-6">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-2xl lg:mx-0">
-                <h2 class="text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Certifications</h2>
+                <h2 class="text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Testimonials</h2>
             </div>
             <div class="mx-auto mt-10 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 border-b border-gray-200 pb-16 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-                {certs.map(cert => (
-                        <Certificate post={cert}></Certificate>
+                {testimonials.map(testimonial => (
+                        <Testimonial post={testimonial}></Testimonial>
                 ))}
             </div>
         </div>
@@ -61,11 +61,11 @@ certs.sort((a, b) => {return b.data.date - a.data.date})
     <div class="bg-white py-6">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-2xl lg:mx-0">
-                <h2 class="text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Testimonials</h2>
+                <h2 class="text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">Certifications</h2>
             </div>
             <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 mt-10 lg:mx-0 lg:max-w-none lg:grid-cols-3">
-                {testimonials.map(testimonial => (
-                        <Testimonial post={testimonial}></Testimonial>
+                {certs.map(cert => (
+                        <Certificate post={cert}></Certificate>
                 ))}
             </div>
         </div>

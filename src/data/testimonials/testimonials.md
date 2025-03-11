@@ -8,6 +8,6 @@ date: 2025-03-11
 
 ![Testimonial 1](./Testimonial1.jpeg)
 
-![Testimonial 2](./Testimonial2.jpeg)
-
 ![Testimonial 4](./Testimonial4.jpeg)
+
+![Testimonial 2](./Testimonial2.jpeg)
