@@ -34,7 +34,7 @@ function getCalloutHtml(type, content) {
             </svg>
         </div>
         <div class="ml-3">
-            <h3 class="text-sm font-medium green">Success story</h3>
+            <h3 class="text-sm font-medium green">Success</h3>
             <div class="mt-2 text-sm text-green-800">
                 <p">${content}</p>
             </div>
@@ -115,7 +115,7 @@ export default function remarkCallout() {
                     // Extract value from the inner `text` node of the paragraph
                     const labelText = labelNode.children.find((child) => child.type === "text");
                     if (labelText && labelText.value) {
-                        calloutType = labelText.value.trim().tolowercase();
+                        calloutType = labelText.value.trim();
                     }
 
                     // Remove the label node from children after we extract it
