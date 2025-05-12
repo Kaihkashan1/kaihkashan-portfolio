@@ -1,6 +1,6 @@
 ---
 title: SheFi
-description: Gaining in-depth knowledge about Web3 to effectively document blockchain technologies and decentralized applications.
+description: Gained in-depth knowledge about Web3 to effectively document blockchain technologies and decentralized applications.
 date: 2025-05-12
 ---
 
