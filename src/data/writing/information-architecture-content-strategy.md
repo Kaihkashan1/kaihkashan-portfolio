@@ -9,9 +9,7 @@ Information architecture and content flow involves structuring and organizing co
 
 ### Information architecture: My work at Adjust
 
-I worked extensively on setting up the information architecture of the Adjust Help Center independently, when we moved from the legacy product to the new Adjust product. In addition, I revamped the information architecture of multiple sections within the Adjust Help Center.
-
-For example: I worked on revamping the Meta section, based on bounce off rates from Google Analytics, heatmaps from Hotjar, and feedback from 
+I worked extensively on setting up the information architecture of the Adjust Help Center independently, when we moved from the legacy product to the new Adjust product. In addition, I revamped the information architecture of multiple sections within the Adjust Help Center. 
 
 :::callout[success]
 I revamped the Meta section based on bounce rates from Google Analytics, heatmaps from Hotjar, and feedback from the Implementations team, who worked directly with clients to set up Meta for Adjust. As a result, the percentage of support tickets related to Meta, which previously made up a large portion of total support tickets, decreased by about 60% within the first quarter after publishing this section.
